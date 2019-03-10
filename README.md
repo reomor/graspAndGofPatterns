@@ -9,9 +9,6 @@
 - [High Cohesion](grasp/HighCohesion.md)
 
 ### GOF
-#### Behavioral
-
-Observer
-
-![](static/observerUml.png)
-
+#### [Behavioral](src/main/java/gof/behavioral)
+- [Observer](src/main/java/gof/behavioral/observer)
+- [Command](src/main/java/gof/behavioral/command)
