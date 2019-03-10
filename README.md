@@ -12,3 +12,4 @@
 #### [Behavioral](src/main/java/gof/behavioral)
 - [Observer](src/main/java/gof/behavioral/observer)
 - [Command](src/main/java/gof/behavioral/command)
+- [Chain of Responsibility](src/main/java/gof/behavioral/chain)

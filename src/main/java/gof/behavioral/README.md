@@ -7,5 +7,10 @@
 
 #### Command
 
-![Pattern Command](../../../../../static/commandUml.png)
-Картинка взята c отличного сайта [refactoring.guru](https://refactoring.guru/ru/design-patterns/command/)
+![Pattern Command](../../../../../static/commandUml.png) <br>
+Картинка c [refactoring.guru](https://refactoring.guru/ru/design-patterns/command/)
+
+#### Chain of Responsibility
+
+![Chain of Responsibility](../../../../../static/chainOfResponsibilitiesUml.png) <br>
+Картинка c [refactoring.guru](https://refactoring.guru/ru/design-patterns/chain-of-responsibility)
