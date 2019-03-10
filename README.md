@@ -1,4 +1,4 @@
-# Паттерны GRASP and GOF
+## Паттерны GRASP and GOF
 
 ### GRASP
 
@@ -7,3 +7,11 @@
 - [Controller](grasp/Controller.md)
 - [Low Coupling](grasp/LowCoupling.md)
 - [High Cohesion](grasp/HighCohesion.md)
+
+### GOF
+#### Behavioral
+
+Observer
+
+![](static/observerUml.png)
+
