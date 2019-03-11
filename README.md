@@ -15,3 +15,4 @@
 - [Chain of Responsibility](src/main/java/gof/behavioral/chain)
 - [Memento](src/main/java/gof/behavioral/memento)
 - [State](src/main/java/gof/behavioral/state)
+- [Strategy](src/main/java/gof/behavioral/strategy)

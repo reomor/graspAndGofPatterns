@@ -23,5 +23,10 @@
 
 #### State
 
-![Chain of Responsibility](../../../../../static/stateUml.png) <br>
+![State](../../../../../static/stateUml.png) <br>
 Картинка [refactoring.guru](https://refactoring.guru/ru/design-patterns/state)
+
+#### Strategy
+
+![Strategy](../../../../../static/strategyUml.png) <br>
+Картинка [refactoring.guru](https://refactoring.guru/ru/design-patterns/strategy)
