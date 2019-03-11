@@ -30,3 +30,8 @@
 
 ![Strategy](../../../../../static/strategyUml.png) <br>
 Картинка [refactoring.guru](https://refactoring.guru/ru/design-patterns/strategy)
+
+#### Visitor
+
+![Visitor](../../../../../static/visitorUml.png) <br>
+Картинка [refactoring.guru](https://refactoring.guru/ru/design-patterns/visitor)

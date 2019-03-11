@@ -16,3 +16,4 @@
 - [Memento](src/main/java/gof/behavioral/memento)
 - [State](src/main/java/gof/behavioral/state)
 - [Strategy](src/main/java/gof/behavioral/strategy)
+- [Visitor](src/main/java/gof/behavioral/visitor)
