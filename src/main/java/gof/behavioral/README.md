@@ -35,3 +35,8 @@
 
 ![Visitor](../../../../../static/visitorUml.png) <br>
 Картинка [refactoring.guru](https://refactoring.guru/ru/design-patterns/visitor)
+
+#### Mediator
+
+![Mediator](../../../../../static/mediatorUml.png) <br>
+Картинка [refactoring.guru](https://refactoring.guru/ru/design-patterns/mediator)

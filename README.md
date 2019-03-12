@@ -17,3 +17,4 @@
 - [State](src/main/java/gof/behavioral/state)
 - [Strategy](src/main/java/gof/behavioral/strategy)
 - [Visitor](src/main/java/gof/behavioral/visitor)
+- [Mediator](src/main/java/gof/behavioral/mediator)
