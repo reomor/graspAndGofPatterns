@@ -19,3 +19,4 @@
 - [Visitor](src/main/java/gof/behavioral/visitor)
 - [Mediator](src/main/java/gof/behavioral/mediator)
 - [Iterator](src/main/java/gof/behavioral/iterator)
+- [Template Method](src/main/java/gof/behavioral/templateMethod)
