@@ -40,3 +40,8 @@
 
 ![Mediator](../../../../../static/mediatorUml.png) <br>
 Картинка [refactoring.guru](https://refactoring.guru/ru/design-patterns/mediator)
+
+#### Iterator
+
+![Iterator](../../../../../static/iteratorUml.png) <br>
+Картинка [refactoring.guru](https://refactoring.guru/ru/design-patterns/iterator)

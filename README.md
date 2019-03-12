@@ -18,3 +18,4 @@
 - [Strategy](src/main/java/gof/behavioral/strategy)
 - [Visitor](src/main/java/gof/behavioral/visitor)
 - [Mediator](src/main/java/gof/behavioral/mediator)
+- [Iterator](src/main/java/gof/behavioral/iterator)
