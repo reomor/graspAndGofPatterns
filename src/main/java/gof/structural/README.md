@@ -10,3 +10,8 @@
 
 ![Composite](../../../../../static/structural/compositeUml.png)
 Картинка [refactoring.guru](https://refactoring.guru/ru/design-patterns/composite)
+
+#### Decorator
+
+![Composite](../../../../../static/structural/decoratorUml.png)
+Картинка [refactoring.guru](https://refactoring.guru/ru/design-patterns/decorator)
