@@ -25,3 +25,4 @@
 
 #### [Structural](src/main/java/gof/structural)
 - [Adapter](src/main/java/gof/structural/adapter)
+- [Composite](src/main/java/gof/structural/composite)
