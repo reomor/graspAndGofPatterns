@@ -25,3 +25,8 @@
 
 ![Flyweight](../../../../../static/structural/flyweightUml.png)
 Картинка [refactoring.guru](https://refactoring.guru/ru/design-patterns/flyweight)
+
+#### Proxy
+
+![Proxy](../../../../../static/structural/proxyUml.png)
+Картинка [refactoring.guru](https://refactoring.guru/ru/design-patterns/proxy)

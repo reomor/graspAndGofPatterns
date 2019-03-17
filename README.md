@@ -29,3 +29,4 @@
 - [Decorator](src/main/java/gof/structural/decorator)
 - [Facade](src/main/java/gof/structural/facade)
 - [Flyweight](src/main/java/gof/structural/flyweight)
+- [Proxy](src/main/java/gof/structural/proxy)
