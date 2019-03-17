@@ -8,6 +8,8 @@
 - [Low Coupling](grasp/LowCoupling.md)
 - [High Cohesion](grasp/HighCohesion.md)
 
+...
+
 ### GOF
 #### [Behavioral](src/main/java/gof/behavioral)
 - [Observer](src/main/java/gof/behavioral/observer)
@@ -20,3 +22,12 @@
 - [Mediator](src/main/java/gof/behavioral/mediator)
 - [Iterator](src/main/java/gof/behavioral/iterator)
 - [Template Method](src/main/java/gof/behavioral/templateMethod)
+
+#### [Structural](src/main/java/gof/structural)
+- [Adapter](src/main/java/gof/structural/adapter)
+- [Composite](src/main/java/gof/structural/composite)
+- [Decorator](src/main/java/gof/structural/decorator)
+- [Facade](src/main/java/gof/structural/facade)
+- [Flyweight](src/main/java/gof/structural/flyweight)
+- [Proxy](src/main/java/gof/structural/proxy)
+- [Bridge](src/main/java/gof/structural/bridge)
