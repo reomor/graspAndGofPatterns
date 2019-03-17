@@ -20,3 +20,8 @@
 
 ![Facade](../../../../../static/structural/facadeUml.png)
 Картинка [refactoring.guru](https://refactoring.guru/ru/design-patterns/facade)
+
+#### Flyweight
+
+![Flyweight](../../../../../static/structural/flyweightUml.png)
+Картинка [refactoring.guru](https://refactoring.guru/ru/design-patterns/flyweight)

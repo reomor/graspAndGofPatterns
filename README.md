@@ -28,3 +28,4 @@
 - [Composite](src/main/java/gof/structural/composite)
 - [Decorator](src/main/java/gof/structural/decorator)
 - [Facade](src/main/java/gof/structural/facade)
+- [Flyweight](src/main/java/gof/structural/flyweight)
