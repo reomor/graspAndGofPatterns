@@ -34,3 +34,4 @@
 
 #### [Creational](src/main/java/gof/creational)
 - [Factory method](src/main/java/gof/creational/factoryMethod)
+- [Abstract factory](src/main/java/gof/creational/abstractFactory)
