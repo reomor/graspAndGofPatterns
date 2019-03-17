@@ -30,3 +30,8 @@
 
 ![Proxy](../../../../../static/structural/proxyUml.png)
 Картинка [refactoring.guru](https://refactoring.guru/ru/design-patterns/proxy)
+
+#### Bridge
+
+![Bridge](../../../../../static/structural/bridgeUml.png)
+Картинка [refactoring.guru](https://refactoring.guru/ru/design-patterns/bridge)
