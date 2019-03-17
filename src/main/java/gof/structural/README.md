@@ -13,5 +13,10 @@
 
 #### Decorator
 
-![Composite](../../../../../static/structural/decoratorUml.png)
+![Decorator](../../../../../static/structural/decoratorUml.png)
 Картинка [refactoring.guru](https://refactoring.guru/ru/design-patterns/decorator)
+
+#### Facade
+
+![Facade](../../../../../static/structural/facadeUml.png)
+Картинка [refactoring.guru](https://refactoring.guru/ru/design-patterns/facade)
