@@ -21,3 +21,7 @@
 ![Prototype](../../../../../static/creational/prototypeUml.png) <br>
 Картинка [refactoring.guru](https://refactoring.guru/ru/design-patterns/prototype)
 
+#### Singleton
+
+![Singleton](../../../../../static/creational/singletonUml.png) <br>
+Картинка [refactoring.guru](https://refactoring.guru/ru/design-patterns/singleton)
