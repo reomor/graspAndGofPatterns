@@ -36,3 +36,4 @@
 - [Factory method](src/main/java/gof/creational/factoryMethod)
 - [Abstract factory](src/main/java/gof/creational/abstractFactory)
 - [Builder](src/main/java/gof/creational/builder)
+- [Prototype](src/main/java/gof/creational/prototype)

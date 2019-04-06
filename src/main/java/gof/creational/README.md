@@ -15,3 +15,9 @@
 
 ![Builder](../../../../../static/creational/builderUml.png) <br>
 Картинка [refactoring.guru](https://refactoring.guru/ru/design-patterns/builder)
+
+#### Prototype
+
+![Prototype](../../../../../static/creational/prototypeUml.png) <br>
+Картинка [refactoring.guru](https://refactoring.guru/ru/design-patterns/prototype)
+
