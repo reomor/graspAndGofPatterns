@@ -31,3 +31,10 @@
 - [Flyweight](src/main/java/gof/structural/flyweight)
 - [Proxy](src/main/java/gof/structural/proxy)
 - [Bridge](src/main/java/gof/structural/bridge)
+
+#### [Creational](src/main/java/gof/creational)
+- [Factory method](src/main/java/gof/creational/factoryMethod)
+- [Abstract factory](src/main/java/gof/creational/abstractFactory)
+- [Builder](src/main/java/gof/creational/builder)
+- [Prototype](src/main/java/gof/creational/prototype)
+- [Singleton](src/main/java/gof/creational/singleton)
